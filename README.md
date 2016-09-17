@@ -1,2 +1,1 @@
-# tuto-android-code
-Tutorialspoint Android Tutorial Note Code
+# Tutorialspoint Android Tutorial Note Example Code
