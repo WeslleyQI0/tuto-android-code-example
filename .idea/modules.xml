@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TutoAndroidCode.iml" filepath="$PROJECT_DIR$/TutoAndroidCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialoges/alertdialoges.iml" filepath="$PROJECT_DIR$/alertdialoges/alertdialoges.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
