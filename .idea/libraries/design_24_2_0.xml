@@ -1,15 +1,37 @@
 <component name="libraryTable">
   <library name="design-24.2.0">
     <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/alertdialoges/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/animations/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/audiocapture/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/autocomplete/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bestpractices/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bluetooth/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/camera/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/clipboard/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/databackup/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gestures/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/jsonparser/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/networkconnection/build/intermediates/exploded-aar/com.android.support/design/24.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/alertdialoges/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/alertdialoges/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/" />
     </SOURCES>

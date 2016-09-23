@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TutoAndroidCode.iml" filepath="$PROJECT_DIR$/TutoAndroidCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/alertdialoges/alertdialoges.iml" filepath="$PROJECT_DIR$/alertdialoges/alertdialoges.iml" />
-      <module fileurl="file://$PROJECT_DIR$/alertdialoges/alertdialoges.iml" filepath="$PROJECT_DIR$/alertdialoges/alertdialoges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animations/animations.iml" filepath="$PROJECT_DIR$/animations/animations.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiocapture/audiocapture.iml" filepath="$PROJECT_DIR$/audiocapture/audiocapture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocomplete/autocomplete.iml" filepath="$PROJECT_DIR$/autocomplete/autocomplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestpractices/bestpractices.iml" filepath="$PROJECT_DIR$/bestpractices/bestpractices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetooth/bluetooth.iml" filepath="$PROJECT_DIR$/bluetooth/bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera/camera.iml" filepath="$PROJECT_DIR$/camera/camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clipboard/clipboard.iml" filepath="$PROJECT_DIR$/clipboard/clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databackup/databackup.iml" filepath="$PROJECT_DIR$/databackup/databackup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestures/gestures.iml" filepath="$PROJECT_DIR$/gestures/gestures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonparser/jsonparser.iml" filepath="$PROJECT_DIR$/jsonparser/jsonparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadingspinner/loadingspinner.iml" filepath="$PROJECT_DIR$/loadingspinner/loadingspinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkconnection/networkconnection.iml" filepath="$PROJECT_DIR$/networkconnection/networkconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spellingchecker/spellingchecker.iml" filepath="$PROJECT_DIR$/spellingchecker/spellingchecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-android-code-example.iml" filepath="$PROJECT_DIR$/tuto-android-code-example.iml" />
     </modules>
   </component>
 </project>

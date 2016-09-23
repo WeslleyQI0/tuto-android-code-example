@@ -3,22 +3,30 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/alertdialoges" />
+            <option value="$PROJECT_DIR$/animations" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/audiocapture" />
+            <option value="$PROJECT_DIR$/autocomplete" />
+            <option value="$PROJECT_DIR$/bestpractices" />
+            <option value="$PROJECT_DIR$/bluetooth" />
+            <option value="$PROJECT_DIR$/camera" />
+            <option value="$PROJECT_DIR$/clipboard" />
+            <option value="$PROJECT_DIR$/databackup" />
+            <option value="$PROJECT_DIR$/gestures" />
+            <option value="$PROJECT_DIR$/jsonparser" />
+            <option value="$PROJECT_DIR$/loadingspinner" />
+            <option value="$PROJECT_DIR$/networkconnection" />
+            <option value="$PROJECT_DIR$/spellingchecker" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/alertdialoges" />
-            <option value="$PROJECT_DIR$/app" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

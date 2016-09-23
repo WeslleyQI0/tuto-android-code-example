@@ -1,1 +1,1 @@
-include ':app', ':alertdialoges'
+include ':app', ':alertdialoges', ':animations', ':audiocapture', ':autocomplete', ':bestpractices', ':bluetooth', ':camera', ':clipboard', ':databackup', ':gestures', ':jsonparser', ':loadingspinner', ':networkconnection', ':spellingchecker'
