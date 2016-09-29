@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/loadingspinner" />
             <option value="$PROJECT_DIR$/networkconnection" />
             <option value="$PROJECT_DIR$/spellingchecker" />
+            <option value="$PROJECT_DIR$/widget" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

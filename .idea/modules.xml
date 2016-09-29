@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/networkconnection/networkconnection.iml" filepath="$PROJECT_DIR$/networkconnection/networkconnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/spellingchecker/spellingchecker.iml" filepath="$PROJECT_DIR$/spellingchecker/spellingchecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuto-android-code-example.iml" filepath="$PROJECT_DIR$/tuto-android-code-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widget/widget.iml" filepath="$PROJECT_DIR$/widget/widget.iml" />
     </modules>
   </component>
 </project>
